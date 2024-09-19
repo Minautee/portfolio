@@ -1,2 +1,2 @@
-# portfolio
-This repo contains assess related to my portfolio.
+# Website Contents
+This repo contains assets related to my portfolio website.
